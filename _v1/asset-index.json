@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 103587,
+  "asset_count": 1,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:0a086d2f9e58d5b581a6705189db2f25d8946aadc04b7070ae5b8741b0169167"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "online assets",
+      "uuids": [
+        "2293f0c3-7805-447b-8013-4437d77de203"
+      ],
+      "simple_name": "online assets"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Text",
+      "id_type": "OBJECT",
+      "files": [
+        "assets.blend"
+      ],
+      "thumbnail": {
+        "url": "assets_thumbnails/Object/text.webp",
+        "hash": "SHA256:978b48a4c08ae2b07a5c956d937df2aac9a3d1db15814382e53bdf79b63cb20e"
+      },
+      "meta": {
+        "catalog_id": "2293f0c3-7805-447b-8013-4437d77de203",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.4000000953674316,
+              0.6910000443458557,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets.blend",
+      "size_in_bytes": 103587,
+      "hash": "SHA256:39722db6313c6d1c78c54f7d39a454084c30e5e83b22c87be7d70edbc9e98f52",
+      "blender_version": "5.2.29"
+    }
+  ]
+}
