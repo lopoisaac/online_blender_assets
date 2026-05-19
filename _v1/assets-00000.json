@@ -3,37 +3,25 @@
   "file_count": 1,
   "assets": [
     {
-      "name": "Text",
-      "id_type": "OBJECT",
+      "name": "Collection",
+      "id_type": "COLLECTION",
       "files": [
         "assets.blend"
       ],
       "thumbnail": {
-        "url": "assets_thumbnails/Object/text.webp",
-        "hash": "SHA256:978b48a4c08ae2b07a5c956d937df2aac9a3d1db15814382e53bdf79b63cb20e"
+        "url": "assets_thumbnails/Collection/collection.webp",
+        "hash": "SHA256:0a9468806d2b272a4133d5299dace0ac734eb78f9ba6a56d3b17abd245b23da9"
       },
       "meta": {
-        "catalog_id": "2293f0c3-7805-447b-8013-4437d77de203",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.4000000953674316,
-              0.6910000443458557,
-              0.0
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
+        "catalog_id": "2293f0c3-7805-447b-8013-4437d77de203"
       }
     }
   ],
   "files": [
     {
       "path": "assets.blend",
-      "size_in_bytes": 103587,
-      "hash": "SHA256:39722db6313c6d1c78c54f7d39a454084c30e5e83b22c87be7d70edbc9e98f52",
+      "size_in_bytes": 105677,
+      "hash": "SHA256:e41d8ca565291cb53297af5241503bded2b0fdb5395bfedabc2e729a707f5a82",
       "blender_version": "5.2.29"
     }
   ]
